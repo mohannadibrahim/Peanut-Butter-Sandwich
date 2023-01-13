@@ -1,0 +1,22 @@
+// CSCI 1550; HW 1, Problem 2
+// Filename: hw1pr2.txt
+// alek 
+// mohannad
+// omar
+// Task 1: Making pbj's.
+ 
+ // first step is making sure we have all the matriels needed to make a PBS.
+ 
+ 1. you need to have a slice of bread 
+ 2. you need to have a the peanut butter 
+ 3. you need to have jelly 
+ 4. a knife so you can spread the peanut and the jelly on the bread
+
+// second putting the peanut butter and the jelly on the bread
+
+1. take the knife and dip in the peanut butter and spreaded on top of the first bread
+2. then do the same thing for the jelly 
+3. making sure you're spreading it evenly
+4. take a second bread and put it on top of the first one
+
+// finally you have a pbj's sandwich
