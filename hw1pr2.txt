@@ -11,6 +11,7 @@
  2. you need to have a the peanut butter 
  3. you need to have jelly 
  4. a knife so you can spread the peanut and the jelly on the bread
+ 5. get a plate to put the sandwich after you make it
 
 // second putting the peanut butter and the jelly on the bread
 
