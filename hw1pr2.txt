@@ -7,17 +7,25 @@
  
  // first step is making sure we have all the matriels needed to make a PBS.
  
- 1. you need to have a slice of bread 
+ 1. you need to have the top and the bottom bread
  2. you need to have a the peanut butter 
+
+ 3. you dont need jelly.
+ 4. a knife so you can spread the peanut and the jelly on the bread(preferably a butter knife)
+
  3. you need to have jelly 
  4. a knife so you can spread the peanut and the jelly on the bread
  5. get a plate to put the sandwich after you make it
 
-// second putting the peanut butter and the jelly on the bread
+
+// second putting the peanut butter the bread
 
 1. take the knife and dip in the peanut butter and spreaded on top of the first bread
-2. then do the same thing for the jelly 
-3. making sure you're spreading it evenly
-4. take a second bread and put it on top of the first one
+2. making sure you're spreading it evenly
+3. take a second bread and put it on top of the first one
+
+
+// finally you have a pbj's sandwich but hold the jelly 
 
 // finally you have a pbj's sandwich
+
